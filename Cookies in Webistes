@@ -1,0 +1,13 @@
+Cookie:
+Its is a small piece of information store in your browser
+When you vists a website then server create a id and sent back to user with header line of reply message and store in browser as a cookie
+When you visit website gaain then browser sent back cookie(id) with header line of request essage the server recognize you are the prvious vistor visting same website
+
+There are 4 types of cookie
+1: Session cookie:delete when browser closed
+2:  Permanent cookie: Remain saved hwen browser closed
+3:first part cookie: cookie of website you currently visisting
+:Third party cookie: cookie created by domain other than website you are currntly visiting
+
+
+
