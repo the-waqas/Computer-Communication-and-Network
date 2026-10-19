@@ -1,0 +1,15 @@
+In transport layer,we communcate process of different applicatiosn of different host using tcp and udp with socket
+TCP:
+Transport control protocol:
+1): Provide relaibility
+2): Retransmission of lost packets
+3): Ordered data packets
+4): also provide congestion control(TCP intentinally slow down the data packets when it notices netwrokin is going to crowded
+
+UDP:
+User Datagram Protocol:
+1); Provide speed
+2): Conectionless
+3): Good for live transacton
+4): no congestion ;Application using udp can provide ata at any speed whatever it wants
+
