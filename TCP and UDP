@@ -12,4 +12,5 @@ User Datagram Protocol:
 2): Conectionless
 3): Good for live transacton
 4): no congestion ;Application using udp can provide ata at any speed whatever it wants
+5)also great for real transactions in real life and provide fast service to users
 
